@@ -1,0 +1,21 @@
+1 - nomes estranhos
+renomear variáveis, método, classe, arquivo
+
+
+2 - linhas em branco em métodos e comentarios
+apagar comentarios, renomear variaveis e abstrair
+
+3 - codigo morto
+apaagr codigo
+
+4 - condiçoes confusas
+Clausula guarda
+consolidar consiçoes
+introduzir comando ternario
+
+6 - tratamento inadequado de erros
+tratamento de erros
+
+7 - classe grande
+extrair classes
+mover metodos
